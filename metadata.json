@@ -1,0 +1,6 @@
+{
+  "name": "Formal Complaint Writing Assistant",
+  "description": "Helps users turn frustrating experiences into concise, accurate, and impactful formal complaint letters while preserving their voice and control over tone, remedy, and facts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
